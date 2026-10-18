@@ -20,6 +20,7 @@
 - Helped build a reusable React component library used across 100+ retail partner storefronts.
 - Worked on enterprise document workflows, dashboards, forms, and approval experiences.
 - Interested in AI-powered products, scalable application architecture, and developer experience.
+  
 🧰 Tech Stack
 Languages
 JavaScript · TypeScript · HTML5 · CSS3 · Python · Java · SQL
@@ -33,6 +34,7 @@ Tools & Cloud
 Git · GitHub · Postman · Docker · AWS (EC2, S3) · GitHub Actions · Vercel · Netlify · Vite · Webpack
 Testing & Security
 Jest · React Testing Library · Vitest · JWT · OAuth · XSS / CSRF awareness
+
 🚀 Featured Projects
 1. AI Investing Guider
 A full-stack, AI-powered educational application designed to help users understand investing concepts and structured decision-making.
