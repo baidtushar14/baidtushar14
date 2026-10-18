@@ -85,6 +85,7 @@ Chandigarh University · 2020–2024
 - Angular Crash Course for Busy Developers — Udemy
 - AWS Partner: Technical Accredited — Credly
 - The Complete JavaScript Course 2025 — Udemy
+
 🤝 Let's Connect
 I'm interested in building useful software, collaborating with engineering teams, and solving real-world product problems.
 - LinkedIn: tushar-baid
